@@ -1,6 +1,3 @@
-/* =============================================================================
-   HTML5 CSS Reset Minified - Eric Meyer
-   ========================================================================== */
 
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
 body{line-height:1}
@@ -35,7 +32,7 @@ html{
 }
 
 body{
-  font:normal 75% Arial, Helvetica, sans-serif;
+  font:normal 75% "Courier New", Courier, monospace;
 }
 
 canvas{
@@ -95,17 +92,13 @@ canvas{
   background-repeat: no-repeat;
 }
 
-.panel{
-  font-family: 'Source Sans Pro';
+.content {
   font-size: 1.3em;
+  line-height: 1.7em;
   position: absolute;
   z-index: 10;
-  width: 200px;
-  height: 220px;
-  background:
-  #eee;
-  top: 5%;
-  left: 5%;
+  top: 10px;
+  left: 5px;
   padding: 20px;
   border-radius: 4px;
   box-sizing: border-box;
