@@ -1,7 +1,7 @@
 // all the properties are optional - can be left empty or deleted
 
 const header = {
-  homepage: '/',
+  homepage: '/portfolio',
   title: 'HOME.',
 }
 
@@ -17,6 +17,7 @@ const about = {
   social: {
     linkedin: 'https://linkedin.com/in/edihasaj',
     github: 'https://github.com/edihasaj',
+    twitter: 'https://twitter.com/hasajedi',
   },
 }
 
