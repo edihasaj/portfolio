@@ -29,26 +29,25 @@ const projects = [
       'managing and interacting with national water data with the\n' +
       'purpose of digitizing and interacting everyday with the \n' +
       'system.',
-    stack: ['C#', 'Java', 'JavaScript', 'Razor'],
+    stack: ['C#', 'Java', 'JavaScript', 'Razor', 'jQuery'],
     sourceCode: 'https://siu.rks-gov.net',
     livePreview: 'https://siu.rks-gov.net',
-  },
-  {
-    name: 'Leaflet - Coordinate Projection',
-    description:
-      'Leaflet JS. MAP - Coordinate Projection of Kosovaref01. Show coordinates on mousemove in Leaflet map. ' +
-      'Ability to change from different projections',
-    stack: ['JavaScript'],
-    sourceCode: 'https://github.com/edihasaj/leafletCoordProjection',
-    livePreview: 'http://edihasaj.github.io/leaflet-coord-projection/',
   },
   {
     name: 'Drone vs Bird detection from Radar systems with Machine Learning',
     description:
       'Software solution that detects Drones or Birds from Radar systems data with high precision.',
-    stack: ['Python', 'Matlab'],
+    stack: ['Python', 'Jupyter', 'Matlab'],
     sourceCode: '#projects',
     livePreview: '#projects',
+  },
+  {
+    name: 'Web + Mobile App for the management of goods, BI, orders and others',
+    description:
+      'Web and Mobile App that integrates with ERP system to manage goods, get BI related information, process orders, etc.',
+    stack: ['JavaScript','React Native','React', 'C#', 'ASP.NET Core', 'Java', 'Spring Boot'],
+    sourceCode: '#projects',
+    livePreview: 'https://play.google.com/store/apps/details?id=com.kubitpda',
   },
   {
     name: 'Scanner CTRL Toshiba',
@@ -83,6 +82,15 @@ const projects = [
     livePreview: '#projects',
   },
   {
+    name: 'Leaflet - Coordinate Projection',
+    description:
+      'Leaflet JS. MAP - Coordinate Projection of Kosovaref01. Show coordinates on mousemove in Leaflet map. ' +
+      'Ability to change from different projections',
+    stack: ['JavaScript'],
+    sourceCode: 'https://github.com/edihasaj/leafletCoordProjection',
+    livePreview: 'http://edihasaj.github.io/leaflet-coord-projection/',
+  },
+  {
     name: 'E-Fiscalization API',
     description:
       'API that integrates ERP fiscal sales like POS, Wholesales, etc.',
@@ -115,10 +123,14 @@ const skills = [
   'SQL Server',
   'PostgreSQL',
   'MySQL',
-  'MongoDB',
   'Redis',
+  'MongoDB',
+  'Apache Cassandra',
+  'Couch-Base',
+  'Hbase',
   'Angular',
   'Vue.js',
+  'jQuery',
   'Docker',
   'SASS',
   'Git',
