@@ -98,6 +98,14 @@ const projects = [
     sourceCode: '#projects',
     livePreview: '#projects',
   },
+  {
+    name: 'Crawler API for E-Fiscalization API',
+    description:
+      'API that gets some crucial usable information from E-fiscalization API that the API does not support offering.',
+    stack: ['Python', 'Django'],
+    sourceCode: 'https://github.com/edihasaj/web-crawler-efiscal-api',
+    livePreview: '#projects',
+  },
 ]
 
 const skills = [
