@@ -111,6 +111,8 @@ const projects = [
 const skills = [
   'C#',
   'Java',
+  'Swift',
+  'Kotlin',
   'Dart',
   'Python',
   'VB.NET',
@@ -119,6 +121,8 @@ const skills = [
   'PHP',
   '.NET & .NET Core',
   'Spring Boot',
+  'iOS',
+  'Android',
   'Flutter',
   'React',
   'React Native',
