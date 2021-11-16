@@ -106,6 +106,14 @@ const projects = [
     sourceCode: 'https://github.com/edihasaj/web-crawler-efiscal-api',
     livePreview: '#projects',
   },
+  {
+    name: 'GeoTech for Android and iOS',
+    description:
+      'Application for case management.',
+    stack: ['React Native', 'C#', 'ASP.NET Core'],
+    sourceCode: '#projects',
+    livePreview: 'https://apps.apple.com/xk/app/geotech-ks/id1592569379',
+  },
 ]
 
 const skills = [
