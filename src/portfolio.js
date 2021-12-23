@@ -114,6 +114,14 @@ const projects = [
     sourceCode: '#projects',
     livePreview: 'https://apps.apple.com/xk/app/geotech-ks/id1592569379',
   },
+  {
+    name: 'ECR Datecs Blutetooth byte cmd',
+    description:
+      'API that returns commands in binary for communication with fiscal printers using Bluetooth.',
+    stack: ['C#'],
+    sourceCode: 'https://github.com/edihasaj/ecr-bluetooth',
+    livePreview: '#projects',
+  },
 ]
 
 const skills = [
