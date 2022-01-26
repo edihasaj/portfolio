@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.2.7",
   "private": true,
-  "homepage": "https://edihasaj.github.io/portfolio",
+  "homepage": "https://portfolio.hasaj.net",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",

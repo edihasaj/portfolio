@@ -1,7 +1,7 @@
 // all the properties are optional - can be left empty or deleted
 
 const header = {
-  homepage: '/portfolio',
+  homepage: '/',
   title: 'HOME.',
 }
 
