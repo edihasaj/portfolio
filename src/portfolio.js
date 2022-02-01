@@ -122,6 +122,22 @@ const projects = [
     sourceCode: 'https://github.com/edihasaj/ecr-bluetooth',
     livePreview: '#projects',
   },
+  {
+    name: 'Developer Tools',
+    description:
+      'Everyday developer usable tools in the cloud',
+    stack: ['C#','Blazor'],
+    sourceCode: '#projects',
+    livePreview: 'https://tools.hasaj.net/',
+  },
+  {
+    name: 'FTP backup service WPF',
+    description:
+      'Windows Form application that can be used to backup directories of data to cloud S/FTP`s',
+    stack: ['C#','SQLite'],
+    sourceCode: 'https://github.com/edihasaj/FtpService',
+    livePreview: '#projects',
+  },
 ]
 
 const skills = [
