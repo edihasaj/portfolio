@@ -154,6 +154,7 @@ const skills = [
   '.NET & .NET Core',
   'Spring Boot',
   'iOS',
+  'SwiftUI',
   'Android',
   'Flutter',
   'React',
