@@ -156,6 +156,7 @@ const skills = [
   'iOS',
   'SwiftUI',
   'Android',
+  'Jetpack Compose',
   'Flutter',
   'React',
   'React Native',
