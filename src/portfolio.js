@@ -138,6 +138,14 @@ const projects = [
     sourceCode: 'https://github.com/edihasaj/FtpService',
     livePreview: '#projects',
   },
+  {
+    name: 'Movement Detection with LoRaWAN and IoT',
+    description:
+      'Small application that inputs PIR (Passive infrared sensor) and uploads it to a Lora cloud provider given the APB keys',
+    stack: ['C++','C'],
+    sourceCode: 'https://github.com/edihasaj/detect-moevement-with-the-lorawan-rdk',
+    livePreview: '#projects',
+  },
 ]
 
 const skills = [
@@ -146,6 +154,8 @@ const skills = [
   'Swift',
   'Kotlin',
   'Dart',
+  'C++',
+  'C',
   'Python',
   'VB.NET',
   'JavaScript',
@@ -176,6 +186,11 @@ const skills = [
   'Hbase',
   'Angular',
   'Vue.js',
+  'LoRaWAN',
+  'BLE',
+  'IoT',
+  'Arduino',
+  'Raspberry',
   'jQuery',
   'Docker',
   'SASS',
