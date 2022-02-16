@@ -143,7 +143,7 @@ const projects = [
     description:
       'Small application that inputs PIR (Passive infrared sensor) and uploads it to a Lora cloud provider given the APB keys',
     stack: ['C++','C'],
-    sourceCode: 'https://github.com/edihasaj/detect-moevement-with-the-lorawan-rdk',
+    sourceCode: 'https://github.com/edihasaj/detect-moevement-lorawan',
     livePreview: '#projects',
   },
 ]
