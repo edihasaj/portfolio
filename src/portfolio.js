@@ -191,6 +191,8 @@ const skills = [
   'IoT',
   'Arduino',
   'Raspberry',
+  'GraphQL',
+  'REST',
   'jQuery',
   'Docker',
   'SASS',
