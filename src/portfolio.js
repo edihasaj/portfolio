@@ -146,6 +146,14 @@ const projects = [
     sourceCode: 'https://github.com/edihasaj/detect-moevement-lorawan',
     livePreview: '#projects',
   },
+  {
+    name: 'Monkey Tech Landing',
+    description:
+      'Landing app for Monkey Tech IT Support',
+    stack: ['JavaScript', 'React', 'Vercel'],
+    sourceCode: '#projects',
+    livePreview: 'https://www.monkeytech.al',
+  },
 ]
 
 const skills = [
@@ -186,6 +194,7 @@ const skills = [
   'Hbase',
   'Angular',
   'Vue.js',
+  'Vercel',
   'LoRaWAN',
   'BLE',
   'IoT',
